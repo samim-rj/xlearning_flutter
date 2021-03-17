@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "175872765336",
+    "project_id": "xlearning-801fe",
+    "storage_bucket": "xlearning-801fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175872765336:android:8a2b8f12eaee98cac40fed",
+        "android_client_info": {
+          "package_name": "com.example.xlearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175872765336-jv0tr8j4s1mt6egg9q4833u2qasebo3l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.xlearning",
+            "certificate_hash": "4cef1ac867b04aa9e4fd95d8e172576fde87ea00"
+          }
+        },
+        {
+          "client_id": "175872765336-hb2ub2444qddpi7d73bi7s2l782g55v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjjQp2os4Vodhtx4nTGie4qg3ELBiB1zY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175872765336-hb2ub2444qddpi7d73bi7s2l782g55v5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
